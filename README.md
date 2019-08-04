@@ -18,6 +18,12 @@ Magento 2
 [![massaction](dofview.jpg)](/uri)
 
 ## Installation
+##### Using Composer (Recommended)
+
+```
+composer require ecomteck/module-delete-orders
+
+```
 ##### Manually (not recommended)
  * Download DeleteOrders Extension
  * Unzip the magento2-delete-orders-master.zip file
