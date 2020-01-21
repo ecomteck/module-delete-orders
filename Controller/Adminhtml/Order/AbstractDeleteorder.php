@@ -1,5 +1,5 @@
 <?php
-namespace Ecomteck\Deleteorder\Controller\Adminhtml\Order;
+namespace Ecomteck\DeleteOrders\Controller\Adminhtml\Order;
 
 abstract class AbstractDeleteorder extends \Magento\Backend\App\Action
 {
